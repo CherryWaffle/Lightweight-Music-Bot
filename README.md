@@ -44,8 +44,8 @@ Important Note
 
   <br>
 <a href="#">
-    <img src="https://cdn.discordapp.com/attachments/901351706649067540/901351722180542464/unknown.png">
-    <img src="https://cdn.discordapp.com/attachments/901351706649067540/901351989148000286/unknown.png">
+    <img src="https://bit.ly/3vMpTrB">
+    <img src="https://bit.ly/3numBWq">
   </a>
 <br>
 
