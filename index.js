@@ -41,13 +41,13 @@ for (const file of commandFiles) {
 
 (async () => {
   try {
-    console.log('Started refreshing application (/) commands.');
+    console.log('Started refreshing application slash commands.');
 
     await rest.put(Routes.applicationCommands(client_id), {
       body: commands
     });
 
-    console.log('Successfully reloaded application (/) commands.');
+    console.log('Successfully reloaded application slash commands.');
   } catch (error) {
     console.error(error);
   }
